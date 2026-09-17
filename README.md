@@ -5,7 +5,7 @@ Nucleo-F031K6 development board and drawn on a 128 × 160 SPI colour display.
 
 The player moves an animated character around the screen with four physical
 directional buttons and tries to reach the target. It was made as a way to
-practise low-level embedded programming — talking to hardware through direct
+practise low-level embedded programming talking to hardware through direct
 register access, driving a display over SPI, and writing simple graphics and
 game logic from scratch without a game engine or graphics framework.
 
