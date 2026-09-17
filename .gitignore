@@ -1,0 +1,21 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE — JetBrains
+.idea/
+
+# IDE — VS Code
+.vscode/
+
+# Build / binaries
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS
+.DS_Store
+Thumbs.db
