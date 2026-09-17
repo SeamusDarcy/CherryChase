@@ -103,5 +103,5 @@ pio run --target upload
 
 ## Notes
 
-A college project, and an exercise in embedded C — register-level GPIO and SPI,
+A college project, and an exercise in embedded C register-level GPIO and SPI,
 SysTick timing, and rendering graphics directly on a microcontroller display.
